@@ -7,5 +7,4 @@
 # introdução
 um algoritmo é um conjunto de instruções que realizam uma tarefa. cada trecho de código poderia ser chamado de um algoritmo, mas aqui quero tratar de trechos mais interessantes.
 
-![[Pasted image 20250116222357.png]]
 
