@@ -10,11 +10,11 @@ O repositório está organizado da seguinte forma:
 - **exercicios**: Contém exercícios práticos para aplicar os conceitos aprendidos.
 - **texto**:
   - **capitulo1**: Resumos e anotações do Capítulo 1 do livro.
-- **mapas_mentais**: Mapas mentais que ajudam na visualização e conexão dos conceitos aprendidos.
+- **mapasMentais**: Mapas mentais que ajudam na visualização e conexão dos conceitos aprendidos.
 
 ## 🧠 Mapas Mentais
 
-Os mapas mentais são uma ferramenta visual que utilizo para conectar ideias e conceitos de forma mais intuitiva. Eles estão disponíveis na pasta `mapas_mentais`.
+Os mapas mentais são uma ferramenta visual que utilizo para conectar ideias e conceitos de forma mais intuitiva. Eles estão disponíveis na pasta `mapasMentais`.
 
 ## ✍️ Resumos
 
