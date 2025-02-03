@@ -33,15 +33,29 @@ Na pasta `recursos`, você encontrará materiais complementares que ajudam a apr
 - **Obsidian**: Utilizado para organizar e visualizar as anotações e mapas mentais.
 - **Markdown**: Para a escrita dos resumos e exercícios.
 
+  ## 🛠️ Como Instalar o Obsidian
+
+  | Sistema Operacional | Passos |  
+  |----------------------|--------|  
+  | **Windows** 🖥️       | Acesse o [site oficial](https://obsidian.md/), baixe e instale o programa. |  
+  | **macOS** 🍎         | Baixe o `.dmg` no [site oficial](https://obsidian.md/) e arraste para **Aplicativos**. |  
+  | **Linux** 🐧         | Faça download do arquivo AppImage, torne-o executável e execute-o. |
+
 ## 📈 Progresso
 
 Aqui você pode acompanhar meu progresso ao longo do estudo do livro:
 
 - [x] Capítulo 1: Introdução aos Algoritmos
-- [ ] Capítulo 2: Estruturas de Dados
-- [ ] Capítulo 3: Algoritmos de Ordenação
-- [ ] Capítulo 4: Algoritmos de Busca
-- [ ] Capítulo 5: Algoritmos em Grafos
+- [ ] Capítulo 2: Ordenação por seleção
+- [ ] Capítulo 3: Recursão
+- [ ] Capítulo 4: Quicksort
+- [ ] Capítulo 5: Tabelas hash
+- [ ] Capítulo 6: Pesquisa em largura
+- [ ] Capítulo 7: Algoritmo de Dijkstra
+- [ ] Capítulo 8: Algoritmos gulosos
+- [ ] Capítulo 9: Programação dinâmica
+- [ ] Capítulo 10: K-vizinho mais próximos
+- [ ] Capítulo 11: Próximos passos
 
 ## 🚀 Como Contribuir
 
