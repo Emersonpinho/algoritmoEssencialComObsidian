@@ -46,7 +46,7 @@ Na pasta `recursos`, você encontrará materiais complementares que ajudam a apr
 Aqui você pode acompanhar meu progresso ao longo do estudo do livro:
 
 - [x] Capítulo 1: Introdução aos Algoritmos
-- [ ] Capítulo 2: Ordenação por seleção
+- [x] Capítulo 2: Ordenação por seleção
 - [ ] Capítulo 3: Recursão
 - [ ] Capítulo 4: Quicksort
 - [ ] Capítulo 5: Tabelas hash
