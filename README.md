@@ -2,6 +2,11 @@
 
 Bem-vindo ao meu repositório de estudo de algoritmos! Neste repositório, eu compartilho meus resumos, mapas mentais e exercícios baseados no livro "Entendendo Algoritmos". Este projeto é organizado utilizando o Obsidian para uma melhor visualização e estruturação do conhecimento.
 
+### 🎥 Prévia do Obsidian  
+<div style="width: 300px; height: 300px; border: 2px solid #000; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Emersonpinho/pythonEssencialComObsidiam/blob/main/CapturaDeTela.png" alt="Descrição da imagem" style="max-width: 100%; max-height: 100%;">
+</div>
+
 ## 📂 Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
