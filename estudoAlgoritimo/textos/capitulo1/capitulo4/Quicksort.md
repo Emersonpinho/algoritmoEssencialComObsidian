@@ -1,0 +1,3 @@
+## Neste capítulo
+- Você pode encontrar alguns problemas que não podem ser resolvidos com algoritmo do seu conhecimento. porém quando um bom desenvolvedor de algoritmos encontra um desses problemas, ele não desiste. Pelo contrário, ele utiliza um ampla cama de tecnicas para encontrar a solução, sendo a técnica de dividir para conquistar a primeira que você aprenderá!
+- Você conhecerá também o quicksort
