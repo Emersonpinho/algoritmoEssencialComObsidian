@@ -52,10 +52,10 @@ Aqui você pode acompanhar meu progresso ao longo do estudo do livro:
 
 - [x] Capítulo 1: Introdução aos Algoritmos
 - [x] Capítulo 2: Ordenação por seleção
-- [ ] Capítulo 3: Recursão
-- [ ] Capítulo 4: Quicksort
-- [ ] Capítulo 5: Tabelas hash
-- [ ] Capítulo 6: Pesquisa em largura
+- [x] Capítulo 3: Recursão
+- [x] Capítulo 4: Quicksort
+- [x] Capítulo 5: Tabelas hash
+- [x] Capítulo 6: Pesquisa em largura
 - [ ] Capítulo 7: Algoritmo de Dijkstra
 - [ ] Capítulo 8: Algoritmos gulosos
 - [ ] Capítulo 9: Programação dinâmica
