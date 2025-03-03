@@ -7,6 +7,23 @@ Bem-vindo ao meu repositório de estudo de algoritmos! Neste repositório, eu co
     <img src="https://github.com/Emersonpinho/algoritmoEssencialComObsidian/blob/main/CapturaDeTela.png" alt="Descrição da imagem" style="max-width: 100%; max-height: 100%;">
 </div>
 
+## 📈 Progresso
+
+Aqui você pode acompanhar meu progresso ao longo do estudo do livro:
+
+- [x] Capítulo 1: Introdução aos Algoritmos
+- [x] Capítulo 2: Ordenação por seleção
+- [x] Capítulo 3: Recursão
+- [x] Capítulo 4: Quicksort
+- [x] Capítulo 5: Tabelas hash
+- [x] Capítulo 6: Pesquisa em largura
+- [x] Capítulo 7: Algoritmo de Dijkstra
+- [ ] Capítulo 8: Algoritmos gulosos
+- [ ] Capítulo 9: Programação dinâmica
+- [ ] Capítulo 10: K-vizinho mais próximos
+- [ ] Capítulo 11: Próximos passos
+
+
 ## 📂 Estrutura do Repositório
 
 O repositório está organizado da seguinte forma:
@@ -46,21 +63,6 @@ Na pasta `recursos`, você encontrará materiais complementares que ajudam a apr
   | **macOS** 🍎         | Baixe o `.dmg` no [site oficial](https://obsidian.md/) e arraste para **Aplicativos**. |  
   | **Linux** 🐧         | Faça download do arquivo AppImage, torne-o executável e execute-o. |
 
-## 📈 Progresso
-
-Aqui você pode acompanhar meu progresso ao longo do estudo do livro:
-
-- [x] Capítulo 1: Introdução aos Algoritmos
-- [x] Capítulo 2: Ordenação por seleção
-- [x] Capítulo 3: Recursão
-- [x] Capítulo 4: Quicksort
-- [x] Capítulo 5: Tabelas hash
-- [x] Capítulo 6: Pesquisa em largura
-- [x] Capítulo 7: Algoritmo de Dijkstra
-- [ ] Capítulo 8: Algoritmos gulosos
-- [ ] Capítulo 9: Programação dinâmica
-- [ ] Capítulo 10: K-vizinho mais próximos
-- [ ] Capítulo 11: Próximos passos
 
 ## 🚀 Como Contribuir
 
