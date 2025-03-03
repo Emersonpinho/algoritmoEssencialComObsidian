@@ -56,7 +56,7 @@ Aqui você pode acompanhar meu progresso ao longo do estudo do livro:
 - [x] Capítulo 4: Quicksort
 - [x] Capítulo 5: Tabelas hash
 - [x] Capítulo 6: Pesquisa em largura
-- [ ] Capítulo 7: Algoritmo de Dijkstra
+- [x] Capítulo 7: Algoritmo de Dijkstra
 - [ ] Capítulo 8: Algoritmos gulosos
 - [ ] Capítulo 9: Programação dinâmica
 - [ ] Capítulo 10: K-vizinho mais próximos
